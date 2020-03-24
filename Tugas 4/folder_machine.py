@@ -58,7 +58,7 @@ class Folder_machine:
                 res = f.list_file()
                 return json.dumps(res)
             else:
-                return "ERROR CMD"
+                return "ERRCMD"
         except:
             return "ERROR"
 
