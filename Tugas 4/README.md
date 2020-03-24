@@ -27,7 +27,7 @@ Untuk melihat nama-nama file yang terdapat di dalam direktori 'folder', seperti 
 
 ## **Nomor 2**
 ### **Dokumentasi Protokol**
-Berikut ini adalah dokumentasi protokol:
+Berikut ini adalah dokumentasi protokol:<br>
 <img width="550" alt="dokumentasi protokol" src="https://user-images.githubusercontent.com/47876805/77402410-360b4980-6de1-11ea-87e3-4ee0c2d3156d.png">
 
 ## **Nomor 3**
