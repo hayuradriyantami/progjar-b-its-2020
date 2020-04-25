@@ -17,4 +17,4 @@
 <img width="960" alt="sesudah modifikasi 2" src="https://user-images.githubusercontent.com/47876805/80275299-8e987400-870a-11ea-82f7-deca3d92d100.png">
 
 #### Balasan dari server
-<img width="733" alt="balasan server" src="https://user-images.githubusercontent.com/47876805/80275311-a839bb80-870a-11ea-8fc1-e2239440685e.png">
+<img width="733" alt="balasan server" src="https://user-images.githubusercontent.com/47876805/80275372-f8188280-870a-11ea-82c1-47ae9e4d123a.png">
